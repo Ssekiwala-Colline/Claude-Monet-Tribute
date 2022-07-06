@@ -1,8 +1,7 @@
- /*body {
-            font-family: tangerine, serif;
-            font-size: 27px;
-            
-        }*/
+       html {
+             overflow-y: hidden;
+             overflow-x: hidden;
+       }
         
         h3 {
             position: relative;
